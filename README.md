@@ -5,6 +5,8 @@ Retrouvons-nous afin de partager nos expériences avec le langage R et échange
 
 Fans de R depuis longtemps ou simples curieuses et curieux ayant envie d'en savoir plus, n'hésitez pas à nous rejoindre ! ;-)
 
+Organisation: Sébastien Rochette, ThinkR (@statnmap)
+
 ## Annonces et organisation des Meetup R Nantes
 
 Le groupe R Nantes se veut rassembleur. Quelque soit son niveau, on peut venir présenter un sujet qui nous tient à coeur.  
@@ -24,12 +26,18 @@ Nous veillerons par ailleurs à la mixité des présentateur.rice.s et des conte
 
 ## Proposition de contenus
 
-Les échanges concernant les contenus et les propositions de contenus se déroulent dans les issues de ce projet GitHub.  
-Il y a déjà plusieurs propositions de contenu. Ça reste des propositions. Si vous vous sentez de présenter sur les sujets déjà proposés, n'hésitez pas à la signaler. Que ce soit pour une présenter simple de l'outil, ou bien pour un cas d'application que vous avez.  
-Si vous souhaitez faire évoluer le sujet, n'hésitez pas à commenter.    
-Si vous avez d'autres sujets que vous souhaiteriez voir ou souhaiteriez présenter, n'hésitez pas à proposer en ouvrant une nouvelle issue.    
-
+Les échanges concernant les contenus et les propositions de contenus se déroulent dans les issues de ce projet GitHub: https://github.com/r-nantes/meetups/issues   
 Les discussions sur l'organisation et pendant les présentations se feront sur Slack, dans le groupe francophone "Grrr", canal `#meetup_r_nantes`.
+
+### Les propositions sont des issues
+
+Il y a déjà plusieurs propositions de contenu. Cela reste des propositions. Si vous vous sentez de présenter sur les sujets déjà proposés, n'hésitez pas à la signaler. Que ce soit pour une présentation simple de l'outil, ou bien pour un cas d'application que vous avez. 
+Rappelez-vous que le public est de tout niveau. Quelque soit votre expérience, votre vision, la façon dont vous avez découvert un outil est intéressante.
+
+- Si vous souhaitez faire évoluer le sujet, n'hésitez pas à commenter.    
+- Si vous avez d'autres sujets que vous souhaiteriez voir ou souhaiteriez présenter, n'hésitez pas à proposer en ouvrant une nouvelle issue.    
+- Si vous n'êtes pas à l'aise avec GitHub ou en public, venez en parler sur le Slack ou sur le groupe Meetup ou en privé.
+
 
 ## Code de conduite
 
