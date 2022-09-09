@@ -25,6 +25,10 @@ Nous veillerons par ailleurs à la mixité des présentateur.rice.s et des conte
 ## Proposition de contenus
 
 Les échanges concernant les contenus et les propositions de contenus se déroulent dans les issues de ce projet GitHub.  
+Il y a déjà plusieurs propositions de contenu. Ça reste des propositions. Si vous vous sentez de présenter sur les sujets déjà proposés, n'hésitez pas à la signaler. Que ce soit pour une présenter simple de l'outil, ou bien pour un cas d'application que vous avez.  
+Si vous souhaitez faire évoluer le sujet, n'hésitez pas à commenter.    
+Si vous avez d'autres sujets que vous souhaiteriez voir ou souhaiteriez présenter, n'hésitez pas à proposer en ouvrant une nouvelle issue.    
+
 Les discussions sur l'organisation et pendant les présentations se feront sur Slack, dans le groupe francophone "Grrr", canal `#meetup_r_nantes`.
 
 ## Code de conduite
