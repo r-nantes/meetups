@@ -14,8 +14,8 @@ Suite à une première discussion le 8 septembre 2002, nous sommes parti sur l'i
 
 - Une séance tous les mois, plutôt le mardi soir
 - Deux présentations à chaque séance
-    + 20-30min sur un sujet plutôt orienté vers un public débutant: "C'est quoi XXX et pourquoi je dois m'y interesser à ... ?"
-    + 10-15min sur un sujet plutôt orienté utilisatrices et utilisateurs avancés: "Comment aller plus loin avec XXX ?"
+    + 20-30min sur un sujet plutôt orienté vers un public débutant: "C'est quoi XXX et pourquoi je dois m'y interesser à ... ?" ou "Comment j'ai découvert le fonctionnement de XXX ?"
+    + 10-15min sur un sujet plutôt orienté utilisatrices et utilisateurs avancés: "Comment aller plus loin avec XXX ?" ou "Voici mon cas d'application de XXX pour mes problématiques"
 
 Si possible, les deux présentations ont un lien. 
 Par exemple, la seconde partie est un cas d'application avancé de l'outil présenté, ou une perspective de ce qu'on peut faire quand on veut aller plus loin.  
